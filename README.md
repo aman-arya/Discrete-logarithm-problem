@@ -30,4 +30,4 @@ h = Fp(p-YourRollNumber)
 
 
 ## Setup
-This script requires that [SageMath](https://www.sagemath.org/) be installed to solve the system of linear equations.
+This script requires that [SageMath](https://www.sagemath.org/) be installed.
