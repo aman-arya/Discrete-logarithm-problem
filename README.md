@@ -31,3 +31,9 @@ h = Fp(p-YourRollNumber)
 
 ## Setup
 This script requires that [SageMath](https://www.sagemath.org/) be installed.
+
+
+## Environments
+windows 10 <br>
+Python 3.7 <br>
+SageMath 9.2  <br>
