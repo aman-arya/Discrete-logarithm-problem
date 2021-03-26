@@ -23,6 +23,8 @@ g = Fp(2)
 ## h is 
 h = Fp(p-YourRollNumber)
 
+### My roll no = 17025
+
 
 ## Find out log_g(h) = ? 
 
